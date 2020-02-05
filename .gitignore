@@ -378,4 +378,7 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+# Exe
+*.exe
+
 # End of https://www.gitignore.io/api/csharp,windows
